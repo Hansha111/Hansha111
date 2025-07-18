@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hansha</h1>
-<h3 align="center">I'm Passionate Software Engineering student specializing in AI/ML and Backend Development.</h3>
+<h3 align="center">I'm a Passionate Software Engineering student specializing in AI/ML and Backend Development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
